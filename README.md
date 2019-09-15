@@ -1,4 +1,4 @@
-# AppToIPaOS
+# AppToIPa for IOS
 
 This small script allows you to transform a file .app to .ipa file compatible for sideload to an IOS device.
 This script is especially useful for people develloping on Windows and using CodeMagic to install their flutter app on their IOS device.
